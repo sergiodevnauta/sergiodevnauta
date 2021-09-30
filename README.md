@@ -45,10 +45,10 @@ Também tenho um canal do Youtube onde ensino Programação, principalmente o De
 </p>
 
 <a  href="https://github.com/sergiodevnauta/" >
-<img  src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
+<img  src="https://github-readme-stats.vercel.app/api?username=sergiodevnauta&theme=default">
 </a>
 
 <a  href="https://github.com/sergiodevnauta/" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodevnauta&hide=html&layout=compact&theme=default">
 </a>
 
